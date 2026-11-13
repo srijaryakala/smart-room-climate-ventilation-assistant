@@ -59,3 +59,14 @@ Ryakala Srija
 ## Wokwi Simulation
 
 https://wokwi.com/projects/480588354907044865
+
+## Project Screenshots
+
+### 1. Normal Condition
+![Normal Condition](Screenshots/Normal%20condition.png)
+
+### 2. High Temperature
+![High Temperature](Screenshots/High%20Temperature.png)
+
+### 3. High Humidity
+![High Humidity](Screenshots/High%20Humidity.png)
